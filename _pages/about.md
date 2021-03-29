@@ -11,15 +11,15 @@ I am a first year graduate student at the Department of Computer and Information
 
 Education
 ======
-* PhD in Computer and Information Science, University of Oregon, (Fall 2020-present)
+* PhD in Computer and Information Science, University of Oregon, (03/2021-present)
 * BSc in Electrical and Electronics Engineering, University of Dhaka, Dhaka, Bangladesh, (2014-2018)
 
 Work Experience
 ======
-* Fall 2020-present:
+* 03/2021-present:
   * Research Assistant at [SHI LAB](https://www.humphreyshi.com/people)
   
-* Dec 2019:
+* 12/2019:
   * I was a exchange student at **Osaka Prefecture University** in **Japan** where I worked on ”self-confidence estimation from handwriting”
 
 * 2018-2019:
