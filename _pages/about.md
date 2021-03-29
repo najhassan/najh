@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year graduate student at the Department of Computer and Information Science, University of Oregon, Eugene, OR. I am currently working at [SHI LAB @ UO](https://www.humphreyshi.com/people) on recent challenges of Computer vision advised by [Prof. Humphrey Shi](https://www.humphreyshi.com/). Previously, I received my B.Sc. degree in Electrical and Electronics Engineering from University of Dhaka, Bangladesh.
+I am a first year graduate student at the Department of Computer and Information Science, University of Oregon, Eugene, OR. Currently, I am working in [SHI LAB @ UO](https://www.humphreyshi.com/people) tackling recent challenges of Computer vision advised by [Prof. Humphrey Shi](https://www.humphreyshi.com/). Previously, I received my B.Sc. degree in Electrical and Electronics Engineering from University of Dhaka, Bangladesh.
 
 Education
 ======
