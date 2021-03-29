@@ -20,7 +20,7 @@ Work Experience
   * Research Assistant at [SHI LAB](https://www.humphreyshi.com/people)
   
 * Dec 2019:
-  * I was a exchange student at **Osaka Prefecture University** in **Japan** and working on ”self-confidence estimation from handwriting”
+  * I was a exchange student at **Osaka Prefecture University** in **Japan** where I worked on ”self-confidence estimation from handwriting”
 
 * 2018-2019:
   * I worked with [Dr.Md Atiqur Rahman Ahad](http://aa.binbd.com/) and [Dr.Mosabber Uddin Ahmed](https://www.du.ac.bd/faculty/faculty_details/APE/1173) on activity recognition   from sensor data during my undergraduate study at University of Dhaka
