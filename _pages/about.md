@@ -12,13 +12,22 @@ I am a first year graduate student at the Department of Computer and Information
 
 News
 ======
-*We are hosting [The 2nd Agriculture-Vision Prize Challenge ](https://www.agriculture-vision.com/agriculture-vision-2021/prize-challenge-2021) at CVPR 2021. Total prize
-money is $20,000. Details are available [here](https://www.agriculture-vision.com/agriculture-vision-2021/prize-challenge-2021)
+* We are hosting [The 2nd Agriculture-Vision Prize Challenge ](https://www.agriculture-vision.com/agriculture-vision-2021/prize-challenge-2021) at CVPR 2021. Total prize
+money is **$20,000**. Details are available [here](https://www.agriculture-vision.com/agriculture-vision-2021/prize-challenge-2021)
+
+
 
 Education
 ======
 * PhD in Computer and Information Science, University of Oregon, (03/2021-present)
 * BSc in Electrical and Electronics Engineering, University of Dhaka, Dhaka, Bangladesh, (2014-2018)
+
+
+Awards
+======
+* **UO Promising Scholar Award**, 2020
+
+
 
 Work Experience
 ======
@@ -31,6 +40,3 @@ Work Experience
 * 2018-2019:
   * I worked with [Dr.Md Atiqur Rahman Ahad](http://aa.binbd.com/) and [Dr.Mosabber Uddin Ahmed](https://www.du.ac.bd/faculty/faculty_details/APE/1173) on activity recognition   from sensor data during my undergraduate study at University of Dhaka
 
-Awards
-======
-* **UO Promising Scholar Award**, 2020
