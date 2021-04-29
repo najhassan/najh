@@ -9,6 +9,12 @@ redirect_from:
 ---
 I am a first year graduate student at the Department of Computer and Information Science, University of Oregon, Eugene, OR. Currently, I am working in [SHI LAB @ UO](https://www.humphreyshi.com/people) tackling recent challenges of Computer vision advised by [Prof. Humphrey Shi](https://www.humphreyshi.com/). Previously, I received my B.Sc. degree in Electrical and Electronics Engineering from University of Dhaka, Bangladesh.
 
+
+News
+======
+*We are hosting [The 2nd Agriculture-Vision Prize Challenge ](https://www.agriculture-vision.com/agriculture-vision-2021/prize-challenge-2021) at CVPR 2021. Total prize
+money is $20,000. Details are available [here](https://www.agriculture-vision.com/agriculture-vision-2021/prize-challenge-2021)
+
 Education
 ======
 * PhD in Computer and Information Science, University of Oregon, (03/2021-present)
