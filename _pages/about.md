@@ -12,6 +12,7 @@ I am a 2nd year graduate student at the Department of Computer and Information S
 
 News
 ======
+* We are accepting full-length papers related to Agriculture-vision at [The 4th Agriculture-Vision Workshop](https://www.agriculture-vision.com/agriculture-vision-2023) in conjunction with IEEE/CVF CVPR 2023. For full details visit [this page](https://www.agriculture-vision.com/agriculture-vision-2023/call-for-papers-2023)
 * One Paper accepted in ECCV 2022.
 * We are welcoming participants [The 3rd Agriculture-Vision Prize Challenge](https://www.agriculture-vision.com/agriculture-vision-2022/prize-challenge-2022) at CVPR 2022. There are two challenge tracks ([Agri-Vision](https://codalab.lisn.upsaclay.fr/competitions/2397?secret_key=7165ae84-daab-43ef-ac44-ce62e4ae952e), [Crop-Harvest](https://codalab.lisn.upsaclay.fr/competitions/2658?secret_key=605265b8-db3c-4b34-a568-cd4439518236)) this year prize money summing up to **$10,000**.
 * One Paper accepted in CVPR 2022.
