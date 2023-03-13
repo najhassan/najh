@@ -22,8 +22,8 @@ News
 
 Education
 ======
-* PhD in Computer and Information Science, University of Oregon, (03/2021-present)
-* BSc in Electrical and Electronics Engineering, University of Dhaka, Dhaka, Bangladesh, (2014-2018)
+* Computer and Information Science, University of Oregon, (03/2021-present)
+* Electrical and Electronics Engineering, University of Dhaka, Dhaka, Bangladesh, (2014-2018)
 
 
 Awards
