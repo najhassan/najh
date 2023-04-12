@@ -41,5 +41,5 @@ Work Experience
   * I was invited by Intelligent Media Processing Group at **Osaka Prefecture University,Japan** to work on ”self-confidence estimation from handwriting”
 
 * 2018-2019:
-  * I worked with [Dr.Md Atiqur Rahman Ahad](http://aa.binbd.com/) and [Dr.Mosabber Uddin Ahmed](https://www.du.ac.bd/faculty/faculty_details/APE/1173) on activity recognition   from sensor data during my undergraduate study at University of Dhaka
+  * I worked with [Dr.Md Atiqur Rahman Ahad](http://ahadvisionlab.com/) and [Dr.Mosabber Uddin Ahmed](https://www.du.ac.bd/faculty/faculty_details/APE/1173) on activity recognition   from sensor data during my undergraduate study at University of Dhaka
 
