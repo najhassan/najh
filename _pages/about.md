@@ -29,7 +29,7 @@ Education
 
 Awards
 ======
-* **UO Promising Scholar Award**, 2020
+* **UO Promising Scholar Award**, 2021
 
 
 
