@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 2nd year graduate student at the Department of Computer and Information Science, University of Oregon, Eugene, OR. Currently, I am working at [SHI Labs](https://www.shi-labs.com/) on Computer Vision advised by Prof. [Humphrey Shi](https://www.humphreyshi.com/). Currently, I am working on object detection and tracking. Previously, I received my B.Sc. degree in Electrical and Electronics Engineering from University of Dhaka, Bangladesh.
+I am a graduate student at the Department of Computer and Information Science, University of Oregon, Eugene, OR. Currently, I am working on object detection and tracking. Previously, I received my B.Sc. degree in Electrical and Electronics Engineering from University of Dhaka, Bangladesh.
 
 
 News
