@@ -35,7 +35,7 @@ Awards
 
 Work Experience
 ======
-* 03/2021-present:
+* 03/2021-06/2023:
   * Research Assistant at [SHI Labs](https://www.humphreyshi.com/people)
   
 * 12/2019:
