@@ -12,7 +12,7 @@ I am a graduate student at the Department of Computer and Information Science, U
 
 News
 ======
-* One Paper accepted in WACV 2023.
+* One Paper accepted in WACV 2024.
 * Joined SRI International as an intern for summer 2023.
 * We are accepting full-length papers related to Agriculture-vision at [The 4th Agriculture-Vision Workshop](https://www.agriculture-vision.com/agriculture-vision-2023) in conjunction with IEEE/CVF CVPR 2023. For full details visit [this page](https://www.agriculture-vision.com/agriculture-vision-2023/call-for-papers-2023)
 * One Paper accepted in ECCV 2022.
