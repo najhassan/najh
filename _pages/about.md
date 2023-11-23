@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a graduate student at the Department of Computer and Information Science, University of Oregon, Eugene, OR. Currently, I am working on object detection and tracking. Previously, I received my B.Sc. degree in Electrical and Electronics Engineering from University of Dhaka, Bangladesh.
+I am a graduate student at the Department of Computer and Information Science, University of Oregon, Eugene, OR. Currently, I am working on adversarial attacks on vision and language models. In the recent past, I have worked on object detection and tracking, unsupervised domain adaptation, etc. Previously, I received my B.Sc. degree in Electrical and Electronics Engineering from the University of Dhaka, Bangladesh.
 
 
 News
@@ -36,6 +36,13 @@ Awards
 
 Work Experience
 ======
+*09/2023-present:
+  * UO Machine Learning Lab working with [Daniel Lowd](https://ix.cs.uoregon.edu/~lowd/)
+
+*06/2023-09/2023:
+  * Intern at SRI International with [Han-Pang Chiu](https://www.sri.com/bios/han-pang-chiu/) and [Niluthpol Chowdhury Mithun](https://niluthpol.github.io/)
+
+
 * 03/2021-06/2023:
   * Research Assistant at [SHI Labs](https://www.humphreyshi.com/people)
   
