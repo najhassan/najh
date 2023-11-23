@@ -36,12 +36,11 @@ Awards
 
 Work Experience
 ======
-*09/2023-present:
+* 09/2023-present:
   * UO Machine Learning Lab working with [Daniel Lowd](https://ix.cs.uoregon.edu/~lowd/)
 
-*06/2023-09/2023:
+* 06/2023-09/2023:
   * Intern at SRI International with [Han-Pang Chiu](https://www.sri.com/bios/han-pang-chiu/) and [Niluthpol Chowdhury Mithun](https://niluthpol.github.io/)
-
 
 * 03/2021-06/2023:
   * Research Assistant at [SHI Labs](https://www.humphreyshi.com/people)
