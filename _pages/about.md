@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a graduate student at the Department of Computer Science, University of Oregon, Eugene, OR. Currently, I am working on adversarial attacks on vision and language models, and in the recent past, I have worked on object detection and tracking, unsupervised domain adaptation, etc. Before UO, I received my B.Sc. degree in Electrical and Electronics Engineering from the University of Dhaka, Bangladesh.
+I have completed my master's degree from the Department of Computer Science, University of Oregon, Eugene, OR. Currently, I am working on generative models using graphs with [Yu Wang](https://yuwang0103.github.io/), and in the recent past, I have worked on adversarial learning, object detection and tracking, unsupervised domain adaptation, etc. Before UO, I received my B.Sc. degree in Electrical and Electronics Engineering from the University of Dhaka, Bangladesh.
 
 
 News
@@ -36,7 +36,10 @@ Awards
 
 Work Experience
 ======
-* 09/2023-present:
+* 12/2023-present:
+  * UO KIND Lab working with [Yu Wang](https://yuwang0103.github.io/)
+
+* 09/2023-09/2024:
   * UO Machine Learning Lab working with [Daniel Lowd](https://ix.cs.uoregon.edu/~lowd/)
 
 * 06/2023-09/2023:
