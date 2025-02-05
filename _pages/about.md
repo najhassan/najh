@@ -36,7 +36,7 @@ Awards
 
 Work Experience
 ======
-* 12/2023-present:
+* 12/2024-present:
   * UO KIND Lab working with [Yu Wang](https://yuwang0103.github.io/)
 
 * 09/2023-09/2024:
